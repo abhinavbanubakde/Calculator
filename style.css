@@ -1,0 +1,18 @@
+
+/* Custom CSS for calculator */
+.container {
+    margin-top: 30px;
+}
+
+.row {
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 100%;
+    padding: 5px;
+}
+.btn{
+    padding:25px;
+}
